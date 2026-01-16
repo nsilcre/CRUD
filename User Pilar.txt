@@ -1,0 +1,9 @@
+USER - PHPMYADMIN
+proyectoLogin
+
+PASSWORD - PHPMYADMIN
+login
+
+LOGIN
+user: Pilar
+password: PilarLogin
