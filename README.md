@@ -7,7 +7,7 @@ Permite gestionar registros de forma segura, restringiendo el acceso únicamente
 
 ## 🚀 Funcionalidades
 
-- Registro de usuarios  
+- Registro de vehículos  
 - Inicio y cierre de sesión  
 - Autenticación mediante sesiones  
 - Crear nuevos registros  
@@ -18,13 +18,13 @@ Permite gestionar registros de forma segura, restringiendo el acceso únicamente
 ## 🖼️ Imágenes del resultado final
 
 ### 🔐 Pantalla de Login
-![Login](imagenes/login.png)
+![Login](img/Login.png)
 
-### 📝 Registro de Usuario
-![Registro](imagenes/registro.png)
+### 📝 Registro de Vehículo
+![Registro](img/Crear.png)
 
 ### 📋 Listado de Registros (CRUD)
-![Listado](imagenes/listar.png)
+![Listado](img/Lista.png)
 
 ### ✏️ Edición de Registros
-![Editar](imagenes/editar.png)
+![Editar](img/Editar.png)
